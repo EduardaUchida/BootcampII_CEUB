@@ -1,4 +1,3 @@
-# BootcampII_CEUB
 # TaskTracker — Gerenciador de Tarefas
 
 ## Descrição do Projeto
